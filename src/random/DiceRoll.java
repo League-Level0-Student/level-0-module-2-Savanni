@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 public class DiceRoll {
-
+ // HELLO THERE FUTURE READERS
 	private JFrame window = new JFrame("Roll the Dice!");
 	private JPanel panel = new JPanel();
 	private JButton rollButton = new JButton("CLICK HERE TO ROLL");
